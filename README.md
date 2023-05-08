@@ -28,4 +28,5 @@ Botunuzu 7/24 çalışan bir makine yapmak için [uptimerobot.com](https://uptim
 
 ### Discord Hesabım 
 + Herhangi bir durumda yardım alabilirsiniz.
+
 [![Discord](https://lanyard.cnrad.dev/api/1085964318853566524)](https://discord.com/users/1085964318853566524)
